@@ -2,5 +2,4 @@ nama                       :Muhammad rafi baihaqi
 alamat                     :kp.cembul ds.rancamanyar
 tempat tanggal lahir       :bandung,14 juni 2005
 jenis kelamin              :Laki-laki
-hobi                       :sepak bola,futsal
-cita-cita                  :pengusaha
+hobi                       :sepak bola,futsal,badminton
