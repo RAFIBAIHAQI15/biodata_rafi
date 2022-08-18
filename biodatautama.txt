@@ -3,10 +3,19 @@ alamat                     :kp.cembul ds.rancamanyar
 tempat tanggal lahir       :bandung,14 juni 2005
 jenis kelamin              :Laki-laki
 hobi                       :sepak bola,futsal,badminton
+
+cita-cita                  :pengusaha
+riwayat pendidikit :
+TK al muwafiq
+sdit daarul qolam
+ppm al ihsan baleendah
+mts persis 30
+smk prakarya international
 cita-cita                  :pengusaha
 riwayat pendidikan :
-tk al muwafiq
+TK al muwafiq
 sdit daarull qolam
 ppm al ihsan baleendah
 mts persis 30
 smk prakarya international
+
